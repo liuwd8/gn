@@ -1,0 +1,5 @@
+default_clang_base_path = ""
+
+declare_args() {
+  clang_base_path = default_clang_base_path
+}
